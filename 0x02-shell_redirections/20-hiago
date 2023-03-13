@@ -1,2 +1,2 @@
 #!/bin/bush
-tr -d "cC"
+#tr -d "cC"
